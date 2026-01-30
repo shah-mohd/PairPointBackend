@@ -1,0 +1,15 @@
+{
+  "name": "pairpointbackend",
+  "version": "1.0.0",
+  "description": "PairPoint is a smart matchmaking platform.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "author": "Shah Mohd",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
